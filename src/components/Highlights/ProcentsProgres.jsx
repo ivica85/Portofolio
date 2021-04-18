@@ -31,7 +31,7 @@ const ProcentsProgres = () => {
 
         <Slide right>
           <div className="discount_description">
-            <Button link={'https://github.com/ivica85'}>
+            <Button link={'https://github.com/mrIvancicIvica'}>
             <h2 style={{color: 'white'}}>GitHub</h2>
             </Button>
           </div>
